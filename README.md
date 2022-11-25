@@ -2,7 +2,12 @@
 Videos of project demos
 
 
-Improving on MBTA's The RIDE: An Algorithm to Increase Reliability and Reduce Costs
+### Improving on MBTA's The RIDE: An Algorithm to Increase Reliability and Reduce Costs (Python)
+
+- Implementation of ride-sharing algorithm to improve efficiency by reducing the number of drivers needed
+- Uses newtwork graph (shortest paths) and greedy approach
+- Includes proof of NP-completeness when expanded to more than two riders at once
+
 
 https://www.youtube.com/watch?v=sL70PW78wlg&t=8s
 
@@ -11,7 +16,11 @@ https://www.youtube.com/watch?v=sL70PW78wlg&t=8s
 
 
 
-Mini-Shell on Terminal (C)
+### Mini-Shell on Terminal (C)
+
+- Implementation of a mini-shell that can run commands using a combination of system calls and built-in commands
+- Utilizes fork system calls for generating new processes, allowing user to open multiple mini-shells within the mini shell
+- Includes pipe (|) implementation to feed output of one command as input into the next
 
 https://user-images.githubusercontent.com/98058072/197353785-df90555d-cff3-47fb-a79e-a0e2a045a096.mp4
 
@@ -22,7 +31,11 @@ https://user-images.githubusercontent.com/98058072/197353785-df90555d-cff3-47fb-
 
 
 
-Slide Puzzle (Python)
+### Slide Puzzle (Python)
+
+- Allows users to select from multiple puzzle options scanned from the folder
+- Only allows for valid moves
+- Tracks results on leaderboard
 
 Part1:
 
@@ -48,11 +61,13 @@ https://user-images.githubusercontent.com/98058072/197356155-8cd3dac8-7cf3-45ab-
 
 
 
-To be uploaded soon: 
+### To be uploaded soon: 
 
 Snapshots Display (Java, JavaSwing, HTML) demonstrating Object Oriented Design Principles
 
-Computer Graphics Demo
+Computer Graphics .obj Renderer
+
+Computer Graphics demo
 
 
 
