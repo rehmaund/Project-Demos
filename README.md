@@ -5,8 +5,8 @@ Videos of project demos
 ### Improving on MBTA's The RIDE: An Algorithm to Increase Reliability and Reduce Costs (Python)
 
 - Implementation of ride-sharing algorithm to improve efficiency by reducing the number of drivers needed
-- Uses newtwork graph (shortest paths) and greedy approach
-- Includes proof of NP-completeness when expanded to more than two riders at once
+- Uses network graph (shortest paths) and greedy approach
+- Includes proof of NP-completeness when expanded to more than two riders in a van at once
 
 
 https://www.youtube.com/watch?v=sL70PW78wlg&t=8s
@@ -66,6 +66,8 @@ https://user-images.githubusercontent.com/98058072/197356155-8cd3dac8-7cf3-45ab-
 Snapshots Display (Java, JavaSwing, HTML) demonstrating Object Oriented Design Principles
 
 Computer Graphics .obj Renderer
+
+- Parses .obj files and renders image with lighting, texture, normal mapping
 
 Computer Graphics demo
 
