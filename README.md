@@ -9,12 +9,13 @@ Videos of project demos
 - user can control level of detail by selecting an octave level between 1 and 9
 - navigation with movable camera using keys and mouse movements
 - Interactive settings include 'w' key for viewing in wireframe mode, and 's' key for viewing in "sunset" mode
+
+
+# https://youtu.be/42Aw3eT92cA
+
+
 ![207633757-6a4f8d9f-0ae0-4eb2-8558-300b59e04470](https://user-images.githubusercontent.com/98058072/209445914-32cdd557-2956-458b-9aba-35ee73831a28.png)
 ![207633802-2530b653-0f84-495f-98fc-9dbd71966cc3](https://user-images.githubusercontent.com/98058072/209445916-d75421e8-3f27-46ea-abea-48bfb77789af.png)
-
-
-
-https://youtu.be/42Aw3eT92cA
 
 
 ### Improving on MBTA's The RIDE: An Algorithm to Increase Reliability and Reduce Costs (Python)
