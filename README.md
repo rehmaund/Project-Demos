@@ -9,6 +9,10 @@ Videos of project demos
 - user can control level of detail by selecting an octave level between 1 and 9
 - navigation with movable camera using keys and mouse movements
 - Interactive settings include 'w' key for viewing in wireframe mode, and 's' key for viewing in "sunset" mode
+![207633757-6a4f8d9f-0ae0-4eb2-8558-300b59e04470](https://user-images.githubusercontent.com/98058072/209445914-32cdd557-2956-458b-9aba-35ee73831a28.png)
+![207633802-2530b653-0f84-495f-98fc-9dbd71966cc3](https://user-images.githubusercontent.com/98058072/209445916-d75421e8-3f27-46ea-abea-48bfb77789af.png)
+
+
 
 https://youtu.be/42Aw3eT92cA
 
@@ -47,7 +51,7 @@ https://user-images.githubusercontent.com/98058072/197353785-df90555d-cff3-47fb-
 - Only allows for valid moves
 - Tracks results on leaderboard
 
-Part1:
+# Part1:
 
 https://user-images.githubusercontent.com/98058072/197356042-768b181c-ec0d-45e4-b7ff-3a221981e672.mov
 
@@ -57,7 +61,7 @@ https://user-images.githubusercontent.com/98058072/197356042-768b181c-ec0d-45e4-
 
 
 
-Part2:
+# Part2:
 
 https://user-images.githubusercontent.com/98058072/197356155-8cd3dac8-7cf3-45ab-b90f-e0613a2c5984.mov
 
@@ -69,17 +73,6 @@ https://user-images.githubusercontent.com/98058072/197356155-8cd3dac8-7cf3-45ab-
 
 
 
-
-
-### To be uploaded soon: 
-
-Snapshots Display (Java, JavaSwing, HTML) demonstrating Object Oriented Design Principles
-
-Computer Graphics .obj Renderer
-
-- Parses .obj files and renders image with lighting, texture, normal mapping
-
-Computer Graphics demo
 
 
 
