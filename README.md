@@ -2,6 +2,17 @@
 Videos of project demos
 
 
+
+### Procedural Terrain Generation using Perlin Noise 2D with Fractal Brownian Motion (C++ and OpenGL)
+
+- Generates unique terrain each time the program is run
+- user can control level of detail by selecting an octave level between 1 and 9
+- navigation with movable camera using keys and mouse movements
+- Interactive settings include 'w' key for viewing in wireframe mode, and 's' key for viewing in "sunset" mode
+
+https://youtu.be/42Aw3eT92cA
+
+
 ### Improving on MBTA's The RIDE: An Algorithm to Increase Reliability and Reduce Costs (Python)
 
 - Implementation of ride-sharing algorithm to improve efficiency by reducing the number of drivers needed
@@ -10,7 +21,6 @@ Videos of project demos
 
 
 https://www.youtube.com/watch?v=sL70PW78wlg&t=8s
-
 
 
 
