@@ -2,6 +2,15 @@
 Videos of project demos
 
 
+## Full Stack Web Application Development: Galactic Getaways (React.js, Node.js, MongoDB, Javascript, HTML, CSS, Bootstrap)
+
+- Pulls data from third party API and allows user to search, view, and generate content related to the third party data
+- Provides personalized use experience for logged in users, and allows multiple users to be logged in at the same time
+- Follower/following capability between users
+- Flagging, commenting, liking, recommending capabilities for logged in users on travel sites from the third party API
+- Allows users to create, view, update, and delete data and saves all interactions in database
+
+### https://www.youtube.com/watch?v=NITsnT1foxY
 
 ## Procedural Terrain Generation using Perlin Noise 2D with Fractal Brownian Motion (C++ and OpenGL)
 
